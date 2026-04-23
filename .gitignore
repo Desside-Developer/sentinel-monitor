@@ -1,0 +1,35 @@
+### JetBrains (IntelliJ IDEA) ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/resources/com/desside/demo/**
+
+### Gradle ###
+.gradle/
+build/
+bin/
+!**/src/main/test/**
+
+### Docker ###
+.docker/
+#compose.yaml, (.env)
+.env
+
+### OS specific ###
+.DS_Store
+Thumbs.db
+desktop.ini
+
+### Log files ###
+*.log
+logs/
+
+### System & Spring Boot ###
+target/
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.rarw
