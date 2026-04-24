@@ -16,7 +16,7 @@ Designed for high availability and scalable alerting.
 
 ---
 
-![sentinel-monitor main](assets-readme/sentinel-monitor.png)
+![sentinel-monitor main](./assets-readme/asentinel-monitor-main.png)
 
 ## Overview
 
@@ -24,7 +24,7 @@ Designed for high availability and scalable alerting.
 
 ## Architecture
 
-![sentinel-monitor architecture](./assets-readme/sentinel-monitor-archi.png)
+![sentinel-monitor architecture](./assets-readme/sentinel-monitor-architecture.png)
 
 The system is organized into three layers:
 
@@ -245,7 +245,7 @@ The server starts at `http://localhost:8080`.
 
 ## API Reference
 
-![sentinel-monitor requests](./assets-readme/sentinel-monitor-request.png)
+![sentinel-monitor requests](./assets-readme/sentinel-monitor-requests.png)
 
 ### Authentication
 
